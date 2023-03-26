@@ -8,6 +8,7 @@
 - [Drupal Commerce](https://drupalcommerce.org/)
 - [HikaShop](https://www.hikashop.com/)
 - [J2Store](https://www.j2store.org/)
+- JigoShop
 - [Loaded Commerce](https://loadedcommerce.com/)
 - [Magento](https://magento.com/)
 - [OpenCart](https://www.opencart.com/)

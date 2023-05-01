@@ -9,8 +9,10 @@
 - [HikaShop](https://www.hikashop.com/)
 - [J2Store](https://www.j2store.org/)
 - JigoShop
+- [JoomShopping](https://extensions.joomla.org/extension/joomshopping/)
 - [Loaded Commerce](https://loadedcommerce.com/)
 - [Magento](https://magento.com/)
+- MarketPress
 - [OpenCart](https://www.opencart.com/)
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
@@ -29,3 +31,8 @@ The tool is standalone software. You only upload the tool to your server. You do
 ## License
 
 [AFL](http://d2d-soft.com/license/AFL.txt)
+
+## Contact US
+Website: https://d2d-soft.com/ \
+Email: contact@d2d-soft.com \
+Youtube: https://www.youtube.com/@d2dsoft 

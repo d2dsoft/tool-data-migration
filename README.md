@@ -21,6 +21,7 @@
 - [PrestaShop](https://www.prestashop.com)
 - [Salesforce](https://www.salesforce.com/)
 - [Shopify](https://www.shopify.com/)
+- [ShopSite](https://www.shopsite.com/)
 - [VirtueMart](https://virtuemart.net/)
 - [Volusion](https://volusion.com/)
 - [WooCommerce](https://woocommerce.com/)

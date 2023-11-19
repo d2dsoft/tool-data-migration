@@ -8,6 +8,7 @@
 - [CS-Cart](https://www.cs-cart.com/)
 - [CubeCart](https://www.cubecart.com/)
 - [Drupal Commerce](https://drupalcommerce.org/)
+- [EC-Cube](https://www.ec-cube.net/)
 - [EKM](https://www.ekm.com/)
 - [HikaShop](https://www.hikashop.com/)
 - [J2Store](https://www.j2store.org/)

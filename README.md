@@ -25,6 +25,7 @@
 - [Salesforce](https://www.salesforce.com/)
 - [Shopify](https://www.shopify.com/)
 - [ShopSite](https://www.shopsite.com/)
+- [Shopware](https://www.shopware.com/)
 - [VirtueMart](https://virtuemart.net/)
 - [Volusion](https://volusion.com/)
 - [WooCommerce](https://woocommerce.com/)

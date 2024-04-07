@@ -29,6 +29,7 @@
 - [ShopSite](https://www.shopsite.com/)
 - [Shopware](https://www.shopware.com/)
 - TomatoCart
+- UberCart
 - [VirtueMart](https://virtuemart.net/)
 - [Volusion](https://volusion.com/)
 - [WooCommerce](https://woocommerce.com/)
